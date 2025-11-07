@@ -36,13 +36,16 @@ Motivated and fast-learning Junior Front-End Developer with hands-on experience 
 
 ## My Project
 
+**Coffee**
+- [Githab](https://www.codewars.com/users/ivan1986mrpl)
+- [Deploy](https://www.codewars.com/users/ivan1986mrpl)
 
 ---
 
 ## My GitHub Stats
 <div align="center">
   <img alt="Githab stats" src="https://github-readme-stats.vercel.app/api?username=ivan1986mrpl&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan1986mrpl&layout=compact&&langs_count=8"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan1986mrpl&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
