@@ -28,15 +28,22 @@ Motivated and fast-learning Junior Front-End Developer with hands-on experience 
 
 ---
 
-## 📊 GitHub Stats
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ivan1986mrpl&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan1986mrpl&layout=compact&theme=tokyonight"/>
-</p>
+## My Project
+
 
 ---
 
-## 📬 Contacts
-- 📧 Email: **aleksandrovichivan35@gmail.com**  
-- 💬 Telegram: [@ivan_mrpl](https://t.me/ivan_mrpl)  
-- 💼 LinkedIn: [Ivan Fomin](https://www.linkedin.com/in/ivan-f-553404281/)  
+## My GitHub Stats
+<div align="center">
+  <img alt="Githab stats" src="https://github-readme-stats.vercel.app/api?username=ivan1986mrpl&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan1986mrpl&layout=compact&&langs_count=8"/>
+</div>
+
+---
+
+## My Contacts
+<p align="left">
+  <a href="https://www.linkedin.com/in/ivan-f-553404281/" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
+  <a href="https://t.me/ivan_mrpl" target="_blank"><img src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" style="margin-bottom: 5px;" /></a>
+  <a href="mailto:aleksandrovichivan35@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" /></a>
+</p>
