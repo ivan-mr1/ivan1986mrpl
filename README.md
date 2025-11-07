@@ -21,9 +21,9 @@ Motivated and fast-learning Junior Front-End Developer with hands-on experience 
   - React
   - Webpack, Gulp, Vite 
   - ESLint, Stylelint, Prettier
-  - REST API, WebSockets, Long Polling
   - BEM, Feature-Sliced Design, Accessibility, UX
-  - Git (GitHub,  GitLab)
+  - Git, GitHub
+  - Netlify, Vercel
   - Figma, Adobe Photoshop
 
 ---
@@ -36,16 +36,24 @@ Motivated and fast-learning Junior Front-End Developer with hands-on experience 
 
 ## My Project
 
-**Coffee**
-- [Githab](https://www.codewars.com/users/ivan1986mrpl)
-- [Deploy](https://www.codewars.com/users/ivan1986mrpl)
+- <a href="https://ivan1986mrpl.github.io/Ivan_Fomin/dist/" target="_blank">My Portfolio</a>
+- <a href="https://ivan1986mrpl.github.io/coffee/dist/" target="_blank">Coffee</a>
+- <a href="https://to-do-react-111.netlify.app/" target="_blank"> To Do List React</a>
+- <a href="https://ivan1986mrpl.github.io/To-Do-List/dist/" target="_blank">To Do List javaScript</a>
+- <a href="https://ivan1986mrpl.github.io/MK-ai-landing/dist/" target="_blank">AI Landing</a>
+- <a href="https://ivan1986mrpl.github.io/paris-palase-of-culture/dist/" target="_blank">Louvre</a>
+- <a href="https://ivan1986mrpl.github.io/New-Year-Shop/dist/" target="_blank">New Year Store</a>
+- <a href="https://ivan1986mrpl.github.io/photographer/dist/" target="_blank">Portfolio Photographer</a>
+- <a href="https://ivan1986mrpl.github.io/landing/dist/" target="_blank">Landing</a>
+- <a href="https://ivan1986mrpl.github.io/alexPortfolio/dist/" target="_blank">Portfolio Alex</a>
+- <a href="https://ivan1986mrpl.github.io/Funiro/Funiro-main/" target="_blank">Funiro</a>
 
 ---
 
 ## My GitHub Stats
 <div align="center">
   <img alt="Githab stats" src="https://github-readme-stats.vercel.app/api?username=ivan1986mrpl&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan1986mrpl&layout=compact&theme=tokyonight"/>
+  <img  alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan1986mrpl&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
