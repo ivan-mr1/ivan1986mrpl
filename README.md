@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 I create modern, adaptive and user-friendly web applications using **HTML, CSS, JavaScript, React**.
 
 Motivated and fast-learning Junior Front-End Developer with hands-on experience building 20+ responsive landing pages and dynamic web interfaces using HTML, CSS (SCSS), and JavaScript. Familiar with React and UI libraries, and experienced in performance optimization (Google PageSpeed 85+), version control (Git), and deployment using Netlify, Vercel, and GitHub Pages. Passionate about continuous learning, open to feedback, and eager to grow in a collaborative team environment. Strong attention to detail, responsible, and ready to take on new challenges in web development.
@@ -13,18 +13,24 @@ Motivated and fast-learning Junior Front-End Developer with hands-on experience 
 
 ---
 
-## 🛠️ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</p>
+## Tech Stack
+
+  - HTML (HTML5), EJS, JSX
+  - CSS (CSS3), Sass (SCSS), PostCSS, Bootstrap, Tailwind, Animations
+  - JavaScript (ES6+, OOP), jQuery, TypeScript
+  - React
+  - Webpack, Gulp, Vite 
+  - ESLint, Stylelint, Prettier
+  - REST API, WebSockets, Long Polling
+  - BEM, Feature-Sliced Design, Accessibility, UX
+  - Git (GitHub,  GitLab)
+  - Figma, Adobe Photoshop
+
+---
+
+## Codewars
+
+[Codewars](https://www.codewars.com/users/ivan1986mrpl)
 
 ---
 
@@ -43,7 +49,17 @@ Motivated and fast-learning Junior Front-End Developer with hands-on experience 
 
 ## My Contacts
 <p align="left">
-  <a href="https://www.linkedin.com/in/ivan-f-553404281/" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
-  <a href="https://t.me/ivan_mrpl" target="_blank"><img src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" style="margin-bottom: 5px;" /></a>
-  <a href="mailto:aleksandrovichivan35@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" /></a>
+  <a href="https://www.linkedin.com/in/ivan-f-553404281/" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://t.me/ivan_mrpl" target="_blank">
+    <img src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" style="margin-bottom: 5px;" />
+  </a>
+  <a href="mailto:aleksandrovichivan35@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
+  </a>
 </p>
+
+- Email: aleksandrovichivan35@gmail.com  
+- Telegram: https://t.me/ivan_mrpl
+- LinkedIn: https://www.linkedin.com/in/ivan-f-553404281/
