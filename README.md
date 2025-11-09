@@ -15,13 +15,13 @@ Motivated and fast-learning Junior Front-End Developer with hands-on experience 
 
 ## Tech Stack
 
-  - HTML (HTML5), EJS, JSX
+  - HTML (HTML5), JSX
   - CSS (CSS3), Sass (SCSS), PostCSS, Bootstrap, Tailwind, Animations
-  - JavaScript (ES6+, OOP), jQuery, TypeScript
+  - JavaScript (ES6+, OOP), jQuery
   - React
   - Webpack, Gulp, Vite 
   - ESLint, Stylelint, Prettier
-  - BEM, Feature-Sliced Design, Accessibility, UX
+  - BEM, Accessibility, UX
   - Git, GitHub
   - Netlify, Vercel
   - Figma, Adobe Photoshop
