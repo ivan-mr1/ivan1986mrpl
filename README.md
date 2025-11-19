@@ -61,7 +61,7 @@ Motivated and fast-learning Junior Front-End Developer with hands-on experience 
 - <a href="https://ivan1986mrpl.github.io/pulse/src/" target="_blank">Pulse</a>
 - <a href="https://ivan1986mrpl.github.io/grow/src/" target="_blank">Growfy</a>
 - <a href="https://ivan1986mrpl.github.io/RealEstate/src/" target="_blank">Real Estate</a>
-- <a href="https://ivan1986mrpl.github.io/Relvise/" target="_blank">Relvise</a>
+- <a href="https://ivan1986mrpl.github.io/Relvise/dist/" target="_blank">Relvise</a>
 - <a href="https://ivan1986mrpl.github.io/lamborghini/dist/" target="_blank">lamborghini</a>
 - <a href="https://ivan1986mrpl.github.io/Recidiviz/dist/" target="_blank">Recidiviz</a>
 - <a href="https://ivan1986mrpl.github.io/ujjo2/" target="_blank">Ujjo</a>
