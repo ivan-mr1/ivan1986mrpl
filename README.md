@@ -6,7 +6,7 @@
 ## About Me
 I create modern, adaptive and user-friendly web applications using **HTML, CSS, JavaScript, React**.
 
-Motivated and fast-learning Junior Front-End Developer with hands-on experience building 20+ responsive landing pages and dynamic web interfaces using HTML, CSS (SCSS), and JavaScript. Familiar with React and UI libraries, and experienced in performance optimization (Google PageSpeed 85+), version control (Git), and deployment using Netlify, Vercel, and GitHub Pages. Passionate about continuous learning, open to feedback, and eager to grow in a collaborative team environment. Strong attention to detail, responsible, and ready to take on new challenges in web development.
+Motivated and fast-learning Junior Front-End Developer with hands-on experience building 20+ responsive landing pages and dynamic web interfaces using HTML, CSS (SCSS), and JavaScript. Familiar with React and UI libraries, and experienced in performance optimization (Google PageSpeed 90+), version control (Git), and deployment using Netlify, Vercel, and GitHub Pages. Passionate about continuous learning, open to feedback, and eager to grow in a collaborative team environment. Strong attention to detail, responsible, and ready to take on new challenges in web development.
 
 💡 I am constantly learning, solving real problems in projects and strive to write clean, readable code.  
 ✨ I am open to interesting offers where I can develop and benefit the team!
@@ -52,6 +52,8 @@ Motivated and fast-learning Junior Front-End Developer with hands-on experience 
 - <a href="https://ivan1986mrpl.github.io/New-Year-Shop/dist/" target="_blank">New Year Store</a>
 - <a href="https://ivan1986mrpl.github.io/photographer/dist/" target="_blank">Portfolio Photographer</a>
 - <a href="https://ivan1986mrpl.github.io/landing/dist/" target="_blank">Landing</a>
+- <a href="https://ivan1986mrpl.github.io/Relvise/dist/" target="_blank">Relvise</a>
+
 - <a href="https://ivan1986mrpl.github.io/alexPortfolio/dist/" target="_blank">Portfolio Alex</a>
 - <a href="https://ivan1986mrpl.github.io/Funiro/Funiro-main/" target="_blank">Funiro</a>
 - <a href="https://ivan1986mrpl.github.io/rentiz/" target="_blank">Rent House</a>
@@ -61,7 +63,6 @@ Motivated and fast-learning Junior Front-End Developer with hands-on experience 
 - <a href="https://ivan1986mrpl.github.io/pulse/src/" target="_blank">Pulse</a>
 - <a href="https://ivan1986mrpl.github.io/grow/src/" target="_blank">Growfy</a>
 - <a href="https://ivan1986mrpl.github.io/RealEstate/src/" target="_blank">Real Estate</a>
-- <a href="https://ivan1986mrpl.github.io/Relvise/dist/" target="_blank">Relvise</a>
 - <a href="https://ivan1986mrpl.github.io/lamborghini/dist/" target="_blank">lamborghini</a>
 - <a href="https://ivan1986mrpl.github.io/Recidiviz/dist/" target="_blank">Recidiviz</a>
 - <a href="https://ivan1986mrpl.github.io/ujjo2/" target="_blank">Ujjo</a>
