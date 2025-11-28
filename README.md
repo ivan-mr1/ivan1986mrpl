@@ -85,7 +85,7 @@ Motivated and fast-learning Junior Front-End Developer with hands-on experience 
 
 ## My Contacts
 <p align="left">
-  <a href="https://www.linkedin.com/in/ivan-f-553404281/" target="_blank">
+  <a href="https://www.linkedin.com/in/fomin-ivan/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
   <a href="https://t.me/ivan_mrpl" target="_blank">
@@ -98,4 +98,4 @@ Motivated and fast-learning Junior Front-End Developer with hands-on experience 
 
 - Email: aleksandrovichivan35@gmail.com  
 - Telegram: https://t.me/ivan_mrpl
-- LinkedIn: https://www.linkedin.com/in/ivan-f-553404281/
+- LinkedIn: https://www.linkedin.com/in/fomin-ivan/
