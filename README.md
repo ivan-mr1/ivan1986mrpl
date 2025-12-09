@@ -77,8 +77,8 @@ Motivated and fast-learning Junior Front-End Developer with hands-on experience 
 
 ## My GitHub Stats
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ivan1986mrpl&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan1986mrpl&layout=compact&theme=tokyonight"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ivan-mr1&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-mr1&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
