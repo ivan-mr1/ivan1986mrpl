@@ -30,48 +30,48 @@ Motivated and fast-learning Junior Front-End Developer with hands-on experience 
 
 ## Codewars
 
-[Codewars](https://www.codewars.com/users/ivan1986mrpl)
+[Codewars](https://www.codewars.com/users/ivan-mr1)
 
 ---
 
 ## My Portfolio
 
-<a href="https://ivan1986mrpl.github.io/Ivan_Fomin/dist/" target="_blank">My Portfolio</a>
+<a href="https://ivan-mr1.github.io/Ivan_Fomin/dist/" target="_blank">My Portfolio</a>
 
 ---
 
 ## My Project
 
 - <a href="https://to-do-react-111.netlify.app/" target="_blank"> To Do List React</a>
-- <a href="https://ivan1986mrpl.github.io/To-Do-List/dist/" target="_blank">To Do List javaScript</a>
-- <a href="https://ivan1986mrpl.github.io/js-project/calculator-second/" target="_blank">Calculator javaScript</a>
+- <a href="https://ivan-mr1.github.io/To-Do-List/dist/" target="_blank">To Do List javaScript</a>
+- <a href="https://ivan-mr1.github.io/js-project/calculator-second/" target="_blank">Calculator javaScript</a>
 
-- <a href="https://ivan1986mrpl.github.io/coffee/dist/" target="_blank">Coffee</a>
-- <a href="https://ivan1986mrpl.github.io/MK-ai-landing/dist/" target="_blank">AI Landing</a>
-- <a href="https://ivan1986mrpl.github.io/paris-palase-of-culture/dist/" target="_blank">Louvre</a>
-- <a href="https://ivan1986mrpl.github.io/New-Year-Shop/dist/" target="_blank">New Year Store</a>
-- <a href="https://ivan1986mrpl.github.io/photographer/dist/" target="_blank">Portfolio Photographer</a>
-- <a href="https://ivan1986mrpl.github.io/landing/dist/" target="_blank">Landing</a>
-- <a href="https://ivan1986mrpl.github.io/Relvise/dist/" target="_blank">Relvise</a>
+- <a href="https://ivan-mr1.github.io/coffee/dist/" target="_blank">Coffee</a>
+- <a href="https://ivan-mr1.github.io/MK-ai-landing/dist/" target="_blank">AI Landing</a>
+- <a href="https://ivan-mr1.github.io/paris-palase-of-culture/dist/" target="_blank">Louvre</a>
+- <a href="https://ivan-mr1.github.io/New-Year-Shop/dist/" target="_blank">New Year Store</a>
+- <a href="https://ivan-mr1.github.io/photographer/dist/" target="_blank">Portfolio Photographer</a>
+- <a href="https://ivan-mr1.github.io/landing/dist/" target="_blank">Landing</a>
+- <a href="https://ivan-mr1.github.io/Relvise/dist/" target="_blank">Relvise</a>
 
-- <a href="https://ivan1986mrpl.github.io/alexPortfolio/dist/" target="_blank">Portfolio Alex</a>
-- <a href="https://ivan1986mrpl.github.io/Funiro/Funiro-main/" target="_blank">Funiro</a>
-- <a href="https://ivan1986mrpl.github.io/rentiz/" target="_blank">Rent House</a>
-- <a href="https://ivan1986mrpl.github.io/roboSchool/app/" target="_blank">Robo School</a>
-- <a href="https://ivan1986mrpl.github.io/fv/" target="_blank">FarmVest</a>
-- <a href="https://ivan1986mrpl.github.io/home/" target="_blank">Home Pro</a>
-- <a href="https://ivan1986mrpl.github.io/pulse/src/" target="_blank">Pulse</a>
-- <a href="https://ivan1986mrpl.github.io/grow/src/" target="_blank">Growfy</a>
-- <a href="https://ivan1986mrpl.github.io/RealEstate/src/" target="_blank">Real Estate</a>
-- <a href="https://ivan1986mrpl.github.io/lamborghini/dist/" target="_blank">lamborghini</a>
-- <a href="https://ivan1986mrpl.github.io/Recidiviz/dist/" target="_blank">Recidiviz</a>
-- <a href="https://ivan1986mrpl.github.io/ujjo2/" target="_blank">Ujjo</a>
-- <a href="https://ivan1986mrpl.github.io/store/" target="_blank">Store Music</a>
-- <a href="https://ivan1986mrpl.github.io/Fitness/dist/" target="_blank">Fitness</a>
-- <a href="https://ivan1986mrpl.github.io/lidia/" target="_blank">Lidia</a>
-- <a href="https://ivan1986mrpl.github.io/RGym/src/" target="_blank">Rgym</a>
-- <a href="https://ivan1986mrpl.github.io/cab/" target="_blank">Cabins</a>
-- <a href="https://ivan1986mrpl.github.io/uber/src/" target="_blank">Uber Landing</a>
+- <a href="https://ivan-mr1.github.io/alexPortfolio/dist/" target="_blank">Portfolio Alex</a>
+- <a href="https://ivan-mr1.github.io/Funiro/Funiro-main/" target="_blank">Funiro</a>
+- <a href="https://ivan-mr1.github.io/rentiz/" target="_blank">Rent House</a>
+- <a href="https://ivan-mr1.github.io/roboSchool/app/" target="_blank">Robo School</a>
+- <a href="https://ivan-mr1.github.io/fv/" target="_blank">FarmVest</a>
+- <a href="https://ivan-mr1.github.io/home/" target="_blank">Home Pro</a>
+- <a href="https://ivan-mr1.github.io/pulse/src/" target="_blank">Pulse</a>
+- <a href="https://ivan-mr1.github.io/grow/src/" target="_blank">Growfy</a>
+- <a href="https://ivan-mr1.github.io/RealEstate/src/" target="_blank">Real Estate</a>
+- <a href="https://ivan-mr1.github.io/lamborghini/dist/" target="_blank">lamborghini</a>
+- <a href="https://ivan-mr1.github.io/Recidiviz/dist/" target="_blank">Recidiviz</a>
+- <a href="https://ivan-mr1.github.io/ujjo2/" target="_blank">Ujjo</a>
+- <a href="https://ivan-mr1.github.io/store/" target="_blank">Store Music</a>
+- <a href="https://ivan-mr1.github.io/Fitness/dist/" target="_blank">Fitness</a>
+- <a href="https://ivan-mr1.github.io/lidia/" target="_blank">Lidia</a>
+- <a href="https://ivan-mr1.github.io/RGym/src/" target="_blank">Rgym</a>
+- <a href="https://ivan-mr1.github.io/cab/" target="_blank">Cabins</a>
+- <a href="https://ivan-mr1.github.io/uber/src/" target="_blank">Uber Landing</a>
 
 ---
 
@@ -88,14 +88,14 @@ Motivated and fast-learning Junior Front-End Developer with hands-on experience 
   <a href="https://www.linkedin.com/in/fomin-ivan/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
-  <a href="https://t.me/ivan_mrpl" target="_blank">
+  <a href="https://t.me/ivan_mr1" target="_blank">
     <img src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" style="margin-bottom: 5px;" />
   </a>
-  <a href="mailto:aleksandrovichivan35@gmail.com" target="_blank">
+  <a href="mailto:ivanfomin.mr1@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
   </a>
 </p>
 
-- Email: aleksandrovichivan35@gmail.com  
-- Telegram: https://t.me/ivan_mrpl
+- Email: ivanfomin.mr1@gmail.com  
+- Telegram: https://t.me/ivan_mr1
 - LinkedIn: https://www.linkedin.com/in/fomin-ivan/
